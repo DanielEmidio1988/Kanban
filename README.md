@@ -5,7 +5,7 @@
 Este é um projeto de estudo prático em JavaScript, utilizando DOM para a criação de um Kanban. Projeto desenvolvido utilizando HTML, CSS e Javascript.
 
 ## 🔗Link de Acesso
-- Deploy: [clique aqui!](https://danielemidio1988.github.io/gerador-cpf/)
+- Deploy: [clique aqui!](https://danielemidio1988.github.io/kanban/)
 
 ## 👥Equipe
 | [<img src="https://avatars.githubusercontent.com/u/111311678?v=4" width=115><br><sub>Daniel Emidio</sub>](https://github.com/DanielEmidio1988) |
@@ -14,12 +14,6 @@ Este é um projeto de estudo prático em JavaScript, utilizando DOM para a cria�
 ## 🧭Status do Projeto
 - ⏳Concluído
 
-## 📄Concepção do Projeto
-
-### Layout
-
-| <img src="./assets/layout_gerador_cpf.png" width=400><br><sub>Home Page</sub> | 
-| :---: |
 
 ### Funcionalidades
 ```bash
